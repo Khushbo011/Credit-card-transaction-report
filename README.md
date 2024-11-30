@@ -7,8 +7,9 @@ Key Features:-
 
 Dynamic Visualizations: Interactive dashboards showcasing transaction trends, spending categories, and user behavior.
 
-Data Analysis:- In-depth exploration of transaction volume, frequency, and amounts over specific time periods.
+Data Analysis:- 
 
+In-depth exploration of transaction volume, frequency, and amounts over specific time periods.
 Insights Generation: Identification of key patterns such as high-value transactions, most-used merchants, and peak transaction times.
 
 Purpose :-
